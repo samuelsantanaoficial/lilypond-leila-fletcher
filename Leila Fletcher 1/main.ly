@@ -39,5 +39,5 @@
   \include "34. Autumn Days.ly"
   \include "35. The Frog.ly"
   \include "36. Simple Simon.ly"
-  \include "37. The parade.ly"
+  \include "37. The Parade.ly"
 }
