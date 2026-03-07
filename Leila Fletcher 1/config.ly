@@ -1,4 +1,4 @@
-%\pointAndClickOff
+\pointAndClickOff
 
 \layout {
   #(layout-set-staff-size 24)
