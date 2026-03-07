@@ -1,5 +1,4 @@
 \version "2.24.4"
-
 \include "config.ly"
 
 \book {
@@ -33,4 +32,5 @@
   \include "27. The Old Waman in a Shoe.ly"
   \include "28. Oh, Susanna.ly"
   \include "29. Bingo.ly"
+  \include "30. The Lighthouse.ly"
 }
