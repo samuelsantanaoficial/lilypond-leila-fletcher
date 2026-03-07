@@ -33,4 +33,5 @@
   \include "28. Oh, Susanna.ly"
   \include "29. Bingo.ly"
   \include "30. The Lighthouse.ly"
+  \include "31. Crack-the-whip.ly"
 }
