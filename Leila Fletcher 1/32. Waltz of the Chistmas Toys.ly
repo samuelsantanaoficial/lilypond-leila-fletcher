@@ -6,7 +6,7 @@
       r4 <e-1 g-3> <e g> | r <e g> <e g> | r <e g> <e g> | r <e g> <e g> | r <f-2 g-3> <f g> | r <f g> <f g> | r <f g> <f g> | r <f g> <f g> \break 
       r <e g> <e g>      | r <e g> <e g> | r <e g> <e g> | r <e g> <e g> | r <f g> <f g>     | r <f g> <f g> | r <e g> <e g> | <e g>2 r4     \break
       r <e g> <e g>      | r <e g> <e g> | r <e g> <e g> | r <e g> <e g> | r <f g> <f g>     | r <f g> <f g> | r <f g> <f g> | r <f g> <f g> \break
-      r <e g> <e g>      | r <e g> <e g> | r <e g> <e g> | r <e g> <e g> | r <f g> <f g>     | r <f g> <f g> | r <e g> <e g> | c2.-3         \bar "|."
+      r <e g> <e g>      | r <e g> <e g> | r <e g> <e g> | r <e g> <e g> | r <f g> <f g>     | r <f g> <f g> | r <e g> <e g> | <c'-3 \balloonText #'(0 . -4) \markup \rounded-box \italic { "Mão esquerda" }>2. \bar "|."
     }
     \new Staff \relative c' {
       \clef bass \time 3/4 \key c \major
@@ -17,5 +17,5 @@
     }
   >>
   \layout {}
-  \midi {\tempo 4=100}
+  %\midi {\tempo 4=100}
 }
