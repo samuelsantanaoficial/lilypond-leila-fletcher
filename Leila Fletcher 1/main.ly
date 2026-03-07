@@ -35,4 +35,7 @@
   \include "30. The Lighthouse.ly"
   \include "31. Crack-the-whip.ly"
   \include "32. Waltz of the Chistmas Toys.ly"
+  \include "33. Left Hand Plays D.ly"
+  \include "34. Autumn Days.ly"
+  \include "35. The Frog.ly"
 }
