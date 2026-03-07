@@ -32,4 +32,5 @@
   \include "26. Merrily We Roll Along.ly"
   \include "27. The Old Waman in a Shoe.ly"
   \include "28. Oh, Susanna.ly"
+  \include "29. Bingo.ly"
 }
