@@ -40,4 +40,5 @@
   \include "35. The Frog.ly"
   \include "36. Simple Simon.ly"
   \include "37. The Parade.ly"
+  \include "38. The Crocodile.ly"
 }
