@@ -9,7 +9,7 @@
     \new Staff \relative c' {
       \clef bass \time 3/4 \key c \major
       r2.      | c4-1 b a | r2.   | r     | r     \break
-      a4-1 b c | r2 b4    | c2 c4 | b a b | c2 c4 | b a b | c2. \bar "|."
+      a4-3 b c | r2 b4    | c2 c4 | b a b | c2 c4 | b a b | c2. \bar "|."
     }
   >>
   \layout {}
